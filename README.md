@@ -10,3 +10,8 @@
 
 **项目4 - 基于RISC-V&ARM架构的PyTorch性能测试和优化**
 
+
+
+**训练营报告汇总**
+
+[傲来操作系统训练营报告 (eulixos.com)](https://learning.eulixos.com/)
