@@ -7,9 +7,16 @@
 **部分资源**
 
 各组件版本仓库：https://archive.apache.org/dist/
+
 框架部署文档参考apache官网，如hadoop：https://hadoop.apache.org/
+
 Kunpeng 920大数据框架组件部署测试：https://www.hikunpeng.com/document/detail/zh/kunpengbds/overview/kunpengbds.html
+
 Kunpeng 920数据库部署测试：https://www.hikunpeng.com/document/detail/zh/kunpengdbs/overview/kunpengdbs.html
+
 RISC-V服务器（SG2042）上部署开源数据库参考：https://zhuanlan.zhihu.com/p/655077069
+
 RISC-V服务器（SG2042）上部署Hadoop参考：https://zhuanlan.zhihu.com/p/678997629
+
+
 
