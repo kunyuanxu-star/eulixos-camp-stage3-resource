@@ -1,0 +1,1 @@
+# eulixos-camp-stage3-resource
